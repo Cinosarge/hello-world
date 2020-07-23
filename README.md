@@ -1,2 +1,3 @@
 # hello-world
-One among the best hello-world repositories in the world.
+
+University student in search for inspiration. I'm picky and dislike vegetables.
